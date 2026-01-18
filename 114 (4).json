@@ -37,7 +37,7 @@
   },
   "8": {
     "inputs": {
-      "seed": "$Seed",
+      "seed": "$Seed$",
       "steps": 38,
       "cfg": 5,
       "sampler_name": "euler",
